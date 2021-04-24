@@ -1,0 +1,108 @@
+baseurl: /
+title: Dr. Hitesh
+author: Dr. Hitesh Raithatha
+googleAnalytics: ''
+defaultContentLanguage: en
+paginate: 3
+theme: hugo-terrassa-theme
+params:
+  contact:
+    address: 419 Creek St. Revere, MA 02151
+    email: example@gmail.com
+    phone: xxx xxx xxx
+    skype: ''
+  copy:
+    copy: ''
+  cta:
+    cta: Contact
+    link: contact
+    show: yes
+  description: Terrassa is a simple, fast and responsive theme for Hugo with a strong
+    focus on accessibility made from scratch.
+  fa:
+    integrity: sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP
+    version: 5.7.2
+  favicon: favicon.ico
+  form:
+    action: https://formspree.io/your@email.com
+    inputEmailLabel: Email
+    inputEmailName: email
+    inputEmailPlaceholder: Your email
+    inputMsgLabel: Write something
+    inputMsgLength: 750
+    inputMsgName: message
+    inputNameLabel: Name
+    inputNameName: name
+    inputNamePlaceholder: Your name
+    inputSubmitValue: Send
+    method: POST
+    netlify: yes
+  hero:
+    textColor: ''
+  languageSwitcher:
+    show: yes
+  logo: ''
+  posts:
+    dateFormat: Monday, Jan, 2006
+    showAuthor: yes
+    showDate: yes
+    showTags: yes
+  separator:
+    show: no
+  social:
+    500px: ''
+    codepen: https://codepen.io/john
+    facebook: https://facebook.com/john
+    flickr: ''
+    github: https://github.com/john
+    gitlab: ''
+    instagram: https://instagram.com/john
+    linkedin: ''
+    mastodon: ''
+    pinterest: ''
+    tumblr: ''
+    twitter: https://twitter.com/john
+    weibo: ''
+    youtube: ''
+privacy:
+  googleAnalytics:
+    anonymizeIP: yes
+    disable: no
+    respectDoNotTrack: yes
+    useSessionStorage: no
+  instagram:
+    disable: no
+    simple: no
+  twitter:
+    disable: no
+    enableDNT: yes
+    simple: no
+  vimeo:
+    disable: no
+    simple: no
+  youtube:
+    disable: no
+    privacyEnhanced: yes
+languages:
+  de:
+    contentDir: content/de
+    description: Das ist die deutsche Beschreibung
+    languageName: de
+    params:
+      cta:
+        cta: Kontakt
+        link: de/kontakt/
+        show: yes
+      form:
+        inputEmailLabel: E-mail
+        inputEmailPlaceholder: Deine E-Mail-Adresse
+        inputMsgLabel: Schreib etwas
+        inputNameLabel: Name
+        inputNamePlaceholder: Dein Name
+        inputSubmitValue: Abschicken
+    title: Das ist der deutsche Titel
+    weight: 2
+  en:
+    contentDir: content/en
+    languageName: en
+    weight: 1

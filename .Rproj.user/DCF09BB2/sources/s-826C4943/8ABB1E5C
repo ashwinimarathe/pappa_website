@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619293962708.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "110695894",
+    "id" : "8ABB1E5C",
+    "lastKnownWriteTime" : 1619294085,
+    "last_content_update" : 1619294085432,
+    "path" : "~/Desktop/pappa_website/config.yaml",
+    "project_path" : "config.yaml",
+    "properties" : {
+        "cursorPosition" : "2,28",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
